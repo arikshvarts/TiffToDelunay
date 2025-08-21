@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.swp
+*.bak
+*.aux
+*.xml
+*.obj
+*.ply
+*.tif
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.qgz
+*.blend
+*.blend1
+/dem2mesh/data/
+/dem2mesh/output_hh.tif
+/dem2mesh/output_hh.tif.aux.xml
+/dem2mesh/output_hh2.tif
+/dem2mesh/output_hh2.tif.aux.xml
+/dem2mesh/output_hh3.tif
+/dem2mesh/output_hh3.tif.aux.xml
+/dem2mesh/output_hh66.tif
+/dem2mesh/output_hh66.xml
+/dem2mesh/mesh55.ply
+/dem2mesh/mesh57.ply
+/dem2mesh/mesh577.ply
+/dem2mesh/outcome.ply
+/dem2mesh/outcome2.ply
+/old/
+/Picture1_full/
+/Picture2_full/
+/rasters_COP30/
+/rasters_COP30 (2)/
+/rasters_COP30 (3)/
+/rasters_COP90/
+/rasters_COP90 (1)/
+/Reg_Pics/
+*.jpg
+*.png
+*.pptx
+delunay explanation.jpg
+cmd_working_line.txt 
