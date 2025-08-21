@@ -12,6 +12,9 @@ This project focuses on processing SAR (Synthetic Aperture Radar) Tiff files, ap
 - `Picture1_full/`, `Picture2_full/`: Directories containing various output pictures, potentially including intermediate and final results.
 - `rasters_COP30/`, `rasters_COP90/`: Directories likely holding input or processed raster data at different resolutions.
 - `Reg_Pics/`: Contains registration related pictures.
+- `delunay explanation.jpg`: An image providing an explanation related to Delaunay triangulation.
+- `cmd_working_line.txt`: This file contains the command-line arguments needed to run the C++ `dem2mesh` procedure for converting TIFF files to OBJ meshes. **This file needs to be modified per input image** to specify the correct input and output paths, and other parameters specific to the image being processed.
+- `סטטוס התקדמות 25.pptx`: A PowerPoint presentation detailing the project's progress and status.
 
 ## Getting Started
 
