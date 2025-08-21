@@ -1,0 +1,1 @@
+docker run -it --rm -v "C:\Users\ariks\uni\ResearchStudent\SAR_Imageas_02_01\Picture1_full/:/data" dem2mesh dem2mesh -rtc -verbose -inputFile /data/output_hh.tif -outputFile /data/mesh1.ply
