@@ -5,7 +5,7 @@ This project focuses on processing SAR (Synthetic Aperture Radar) Tiff files, ap
 ## Project Structure
 
 - `dem2mesh/`: Contains the C++ project for converting Digital Elevation Models (DEM) to meshes.
-- `utillity_vectorgeneration_func.py`: Python script likely related to vector generation.
+- `utillity_vectorgeneration_func.py`: Python script related to vector generation.
 - `TiffWork.py`: Python script for Tiff file processing.
 - `try_full_pipeline.py`: Python script to run the full processing pipeline.
 - `old/`: Directory containing older or experimental output files.
