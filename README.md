@@ -16,6 +16,3 @@ This project focuses on processing SAR (Synthetic Aperture Radar) Tiff files, ap
 - `cmd_working_line.txt`: This file contains the command-line arguments needed to run the C++ `dem2mesh` procedure for converting TIFF files to OBJ meshes. **This file needs to be modified per input image** to specify the correct input and output paths, and other parameters specific to the image being processed.
 - `סטטוס התקדמות 25.pptx`: A PowerPoint presentation detailing the project's progress and status.
 
-## Getting Started
-
-Further instructions on how to set up and run the project will be added here. 
